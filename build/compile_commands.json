@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/alloush/coding/Maze/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/Maze.dir/src/main.cpp.o -c /home/alloush/coding/Maze/src/main.cpp",
+  "file": "/home/alloush/coding/Maze/src/main.cpp"
+}
+]

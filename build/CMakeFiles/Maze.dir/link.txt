@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/Maze.dir/src/main.cpp.o -o Maze  -lGL -lGLU -lglut 
